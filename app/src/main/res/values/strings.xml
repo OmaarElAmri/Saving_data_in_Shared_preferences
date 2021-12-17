@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SAVING DATA IN SHARED PREFERENCES</string>
+    <string name="load">LOAD</string>
+    <string name="name">name</string>
+    <string name="age">age</string>
+    <string name="adult">Adult ?</string>
+    <string name="save">SAVE</string>
+</resources>
